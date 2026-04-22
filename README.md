@@ -62,4 +62,4 @@ ServiceHiveV1/
 
 ## Demo Video
 
-<video src="AutoStream_AI_Agent_Demo_Anand_Raj.mp4" controls width="800"></video>
+[Watch Demo Video](./AutoStream_AI_Agent_Demo_Anand_Raj.mp4)
